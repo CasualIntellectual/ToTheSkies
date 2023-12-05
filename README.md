@@ -19,6 +19,6 @@ The game is controlled via WASD and a computer mouse to aim. Currently there are
 You can also play it on itch.io using this link: https://casualintellectual.itch.io/to-the-skies. 
 
 I'm pretty proud of this game since I coded it almost entirely on my own and with very little direction, but evidently this has led to my code being messy and inefficient. 
-I will be returning to this project to optimize it, since I have tons of global variables, repeated code, and inefficiencies.
+I am thinking of returning to this project to optimize it every now and then, since I have tons of global variables, repetitive code, and issues that may be impacting performace.
 
 Edit: December 04 2023 Organized Game Assets into folders using Pygame OS
